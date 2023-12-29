@@ -1,9 +1,9 @@
 ## Hi, I'm César 👋🏽
 
-- 🔭 I currently work at Stara as a software developer with C#
-- 🌱 I'm currently learning about software architectures
+- 🔭 software developer with C# 
+- 🌱 Learning about software architectures
 - 📚 Studying Computer Science at UPF
-- 📍 Brazil
+- 📍  Brazil
 
 <div> 
   <a href = "mailto:cesarfigueredojr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
