@@ -1,4 +1,4 @@
-## Hi, I'm César 👋🏽
+### Hi, I'm César 👋🏽
 
 - 🔭 software developer with C# 
 - 🌱 Learning about software architectures
