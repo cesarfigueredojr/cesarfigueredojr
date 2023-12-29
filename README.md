@@ -1,6 +1,6 @@
 ### Hi, I'm César 👋🏽
 
-- 🔭 software developer with C# 
+- 🔭 Software developer with C# 
 - 🌱 Learning about software architectures
 - 📚 Studying Computer Science at UPF
 - 📍  Brazil
