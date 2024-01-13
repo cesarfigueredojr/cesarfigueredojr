@@ -11,7 +11,7 @@
   <img align="right" src="https://raw.githubusercontent.com/cesarfigueredojr/cesarfigueredojr/main/assets/luffy.gif" alt="Coder GIF" width="450"/>
 
 <br><br>
-<h2 align="left">👨🏻‍💻 About me </h2>
+<h2 align="left">About me</h2>
   <ul align="left">
       <li>📚 Computer Scientist </li>
       <li>💻 Software Developer • Back-end ❣ </li>
@@ -20,19 +20,23 @@
   </ul>
 
 <br><br>
-<h2 align="left">🛠️ Some tools</h2>
+<h2 align="left">Some tools</h2>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="java" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="javascript" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="typescript" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt=".NET" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="mongodb" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="mysql" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="redis" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="nginx" width="35" height="35" />
-</p>
+<img src="https://img.shields.io/badge/C%23-white?style=for-the-badge&logo=c%23&logoColor=B785D5&color=7DFAB8"/>
+<img src="https://img.shields.io/badge/.NET-white?style=for-the-badge&logo=.NET&logoColor=%23512BD4&color=7DFAB8"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-white?style=for-the-badge&logo=visualstudio&logoColor=%235C2D91&color=7DFAB8"/>
+<img src="https://img.shields.io/badge/VS%20code-white?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC&color=7DFAB8"/>
+<img src="https://img.shields.io/badge/SQL SERVER-white?style=for-the-badge&logo=microsoftsqlserver&logoColor=%23CC2927&color=7DFAB8"/>
+<img src="https://img.shields.io/badge/jira-white?style=for-the-badge&logo=jira&logoColor=%230052CC&color=7DFAB8"/>
+<img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=%23F05032&color=7DFAB8"/>
+<img src="https://img.shields.io/badge/sqlite-white?style=for-the-badge&logo=sqlite&logoColor=%23003B57&color=E5DDB6"/>
+<img src="https://img.shields.io/badge/mongo%20db-white?style=for-the-badge&logo=mongodb&logoColor=%2347A248&color=E5DDB6"/>
+<img src="https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=%232496ED&color=E5DDB6"/>
+<img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=%233776AB&color=86ECDB"/>
+<img src="https://img.shields.io/badge/fastapi-white?style=for-the-badge&logo=fastapi&logoColor=B25F00&color=86ECDB"/>
+<img src="https://img.shields.io/badge/flask-white?style=for-the-badge&logo=flask&logoColor=%23000000&color=86ECDB"/>
+<img src="https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=%23339933&color=E5DDB6"/>
+<img src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=%23CB3837&color=E5DDB6"/>
   
 </div>
 
